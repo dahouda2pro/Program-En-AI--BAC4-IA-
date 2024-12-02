@@ -20,7 +20,7 @@
 ### 1.5.3 Apprentissage par renforcement (juste une introduction)
 
 # CHAPITRE 3 Apprentissage Profond [Deep Learning] 
-## 3.1. Introduction aux réseaux de neurones [Neural Networks] Natural Language Processing (NLP)
+## 3.1. Introduction aux réseaux de neurones [Neural Networks]
 ### Concepts de base
 ### Function d’activation
 ### Réseaux de neurons profonds
