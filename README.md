@@ -30,7 +30,7 @@
 
 # CHAPITRE 4 Introduction au Traitement du Langage Naturel [Natural Language Processing (NLP)]
 
-# CHAPITRE 5 Introduction au GenAI 
+# CHAPITRE 5 Introduction au GenAI Pour BAC4 IA UPL
 
 
 
